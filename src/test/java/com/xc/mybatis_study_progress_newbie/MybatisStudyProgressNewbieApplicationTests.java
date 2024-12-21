@@ -30,11 +30,10 @@ class MybatisStudyProgressNewbieApplicationTests {
         userList.stream().forEach(user -> {
             System.out.println(user.toString());
         });
-    }
-
+   }
 
     public void testDeleteForEmpMapper() {
-       List<Integer> ids = List.of(13, 14, 15);
+        List<Integer> ids = List.of(13, 14, 15);
         empMapper.delete(ids);
     }
 
@@ -84,4 +83,5 @@ class MybatisStudyProgressNewbieApplicationTests {
             System.out.println(emp.toString());
         });
     }
+
 }

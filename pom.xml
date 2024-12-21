@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.XC</groupId>
-    <artifactId>Mybatis_study_progress_newbie</artifactId>
+    <artifactId>Java_study_progress_Mybatis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Mybatis_study_progress_newbie</name>
     <description>Mybatis_study_progress_newbie</description>
